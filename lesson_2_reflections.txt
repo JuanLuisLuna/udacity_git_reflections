@@ -6,3 +6,14 @@ cero commits and cero tracked files
 Why do yuo need to do it?
 
 to start control vertion
+
+How is the staging area different from the 
+working directory and the repository?
+What value do you think it offers?
+
+the repository es just a folder
+the working directory is a repository were 
+was init git
+the staging area is the temporary repository
+were are de files before commints
+

@@ -1,0 +1,14 @@
+
+git diff
+
+show the difference between working space and 
+stating area
+
+git diff --staged
+
+show the difference between stating area and 
+last commit
+
+git reset --hard
+
+reset any change did in the working derectoty
