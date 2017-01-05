@@ -11,9 +11,51 @@ How is the staging area different from the
 working directory and the repository?
 What value do you think it offers?
 
-the repository es just a folder
-the working directory is a repository were 
-was init git
+the repository contains all staging 
+ares that was commited
+
 the staging area is the temporary repository
 were are de files before commints
 
+the working directory is a repository were 
+the user makes the changes in files
+
+How can you use the staging area to make sure
+you have one commited per logical changes?
+
+you can comper the working space and the 
+staging area whit git diff and confirm 
+tha the changes maded correspond to a 
+logical changes
+
+What are some situations when branches wold be 
+helpful in keeping your history organized?
+
+to make big changes in vertions 
+
+How would branches help?
+
+making posible retunr to a previos vertion 
+
+How do the diagrams help you visualize the 
+branch structure?
+
+the diagrams give a beter idea about branch
+and how was maked
+
+what is the result of merging two branches 
+together?
+
+one branch ordered by timestamps from commits
+
+Why do we represent it in the diagram the way
+ we do?
+
+to have a global idea of the conceps
+
+what are the pros and cons of git's automatic 
+merging vs always doing merges manually?
+
+with automatic merge just need resolve a few 
+conflicts. manualy merge is alot of work 
+ 

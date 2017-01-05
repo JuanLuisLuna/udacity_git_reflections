@@ -1,14 +1,36 @@
 
-git diff
+$ git diff
 
 show the difference between working space and 
 stating area
 
-git diff --staged
+$ git diff --staged
 
 show the difference between stating area and 
 last commit
 
-git reset --hard
+$ git reset --hard
 
 reset any change did in the working derectoty
+
+$ git log --graph --oneline branch1 branch2
+
+$ git branch
+
+show the branches 
+
+$ git branch name
+
+create a new branch 
+
+$ git checkout branchName
+
+checko to the branchName
+
+$ git merge branchResult branchLeft
+
+merge two branch in one 
+
+$ git branch -d coins
+
+delete label coins that was for the branch
