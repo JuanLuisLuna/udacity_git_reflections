@@ -7,3 +7,16 @@ than having Git automatically stay up-to-date with
 your remote repository?
 
 in merge automatic conflicts
+
+Describe the difference between forks, clones and 
+branches. When wolud you use one instead of 
+another?
+
+fork: make a clone of all repository on gitHub
+clones: make a clone of all repository local 
+from github
+branches: are for vertions of code 
+
+
+
+
