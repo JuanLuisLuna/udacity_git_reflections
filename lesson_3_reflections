@@ -17,6 +17,10 @@ clones: make a clone of all repository local
 from github
 branches: are for vertions of code 
 
+What is the benefit of having a copy of the last
+known state of the remote stored locally?
 
+wen have a local copy can have a distinct vertion 
+that exist on git hub
 
 

@@ -1,0 +1,14 @@
+$ git pull <remote> <branch>
+
+pull the remote branch on git hub in to local 
+
+$ git push <remote> <branch>
+
+push the local changes in to git hub
+
+$ git fetch 
+
+make an update of remote changes making a new
+ branch per one distinch commit in the same local branch
+
+ 
