@@ -1,3 +1,7 @@
+$ git remote add <name> <URL>
+
+built a remote conection with github repository
+
 $ git pull <remote> <branch>
 
 pull the remote branch on git hub in to local 
